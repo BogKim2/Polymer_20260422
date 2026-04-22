@@ -1,0 +1,44 @@
+{
+  "hooks": {
+    "PreToolUse": [
+      {
+        "matcher": "Write|Edit",
+        "hooks": [
+          {
+            "type": "command",
+            "shell": "powershell",
+            "command": "$raw = [Console]::In.ReadToEnd(); $j = $raw | ConvertFrom-Json; $fp = $j.tool_input.file_path; if ($fp -and (Test-Path $fp)) { $dir = 'E:\\venture\\proposal\\JBLab\\2nd\\backup'; if (!(Test-Path $dir)) { New-Item -ItemType Directory -Path $dir -Force | Out-Null }; $date = Get-Date -Format 'yyyyMMdd_HHmmss'; $name = [System.IO.Path]::GetFileName($fp); Copy-Item $fp (Join-Path $dir ($date + '_' + $name)) }",
+            "statusMessage": "파일 백업 중...",
+            "timeout": 30
+          }
+        ]
+      }
+    ],
+    "PostToolUse": [
+      {
+        "matcher": "Write|Edit",
+        "hooks": [
+          {
+            "type": "command",
+            "shell": "powershell",
+            "command": "echo 파일수정됨",
+            "statusMessage": "파일수정됨"
+          }
+        ]
+      }
+    ],
+    "Stop": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "shell": "powershell",
+            "command": "1..20 | ForEach-Object { [console]::beep(1000, 300); Start-Sleep -Milliseconds 200 }",
+            "statusMessage": "작업 완료 알람 재생 중...",
+            "timeout": 15
+          }
+        ]
+      }
+    ]
+  }
+}

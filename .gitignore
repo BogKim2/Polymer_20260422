@@ -1,0 +1,9 @@
+# 루트에는 아래 2개의 pptx와 폴더(adhesives_data, 2nd)만 포함하고, 그 외는 무시합니다.
+/*
+!.gitignore
+
+!adhesives_data/
+!2nd/
+
+!1고분자_Claude_세미나_기초활용_업무지원.pptx
+!2고분자_Claude_Code_2회차_실전워크플로우.pptx

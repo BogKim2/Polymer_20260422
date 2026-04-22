@@ -1,0 +1,345 @@
+--- Page 1 ---
+Contents lists available at ScienceDirect
+Colloids and Surfaces A
+journal homepage: www.elsevier.com/locate/colsurfa
+Dispersion performances and adsorption behavior of novel block
+polycarboxylate with hybrid side chains in coal-water slurry
+Junfeng Zhu *, Weichun Gao, Pei Wang, Ting Zhu, Junguo Li
+Shaanxi Key Laboratory of Chemical Additives for Industry, College of Chemistry and Chemical Engineering, Shaanxi University of Science and Technology, Xi’ an, 710021,
+China
+GRAPHICAL ABSTRACT
+ARTICLE INFO
+Keywords:
+Block polycarboxylate with hybrid side chainsAdsorptionDispersion mechanism
+Coal-water slurry
+Apparent viscosityABSTRACT
+A serial of novel block polycarboxylate dispersants (PCDs) with hybrid side chains employing long-short com-
+posite side chains for making coal-water slurry (CWS) were synthesized and applied to a low rank coal in the
+north of China to make slurry. The relationship of the ﬁne structure of side chains and properties of the CWS
+were investigated. The results show that the apparent viscosity, zeta potential and stability of the CWS are
+impacted by the molar ratio of short side chain to long side chain of the PCD. Meanwhile, the viscosity reduction,
+stability property and zeta potentials of the CWSs are increased in accord with the order of adsorption amount of
+PCD on coal. These facts con ﬁrm that the PCD with a molar ratio of the short side chain to long side chain of just
+over unity more easily forms a larger adsorption amount on the coal surface and has optimal dispersion and
+stability characteristics. It is helpful to regulate the adsorption behavior of polycarboxylate dispersant to im-
+prove its dispersion property. It provides a good pathway to design and prepare a highly eﬀ ective dispersant for
+low rank coal.
+https://doi.org/10.1016/j.colsurfa.2020.124644Received 14 January 2020; Received in revised form 28 February 2020; Accepted 29 February 2020⁎Corresponding author.
+E-mail address: zjfeng123123@163.com (J. Zhu).Colloids and Surfaces A 594 (2020) 124644
+Available online 29 February 2020
+0927-7757/ © 2020 Elsevier B.V. All rights reserved.
+T
+
+--- Page 2 ---
+1. Introduction
+Coal-water slurry (CWS) is urgently necessary to cater for the in-
+creasing use of energy and environmental demands and also to utilize
+the coal resources e ﬃciently, economically, and cleanly [ 1]. The visc-
+osity, ﬂuidity and stability of coal-water slurry have an important in-
+ﬂuence on its pipeline transportation, atomization, and combustion
+eﬃciency [ 2]. The dispersant plays an important role in improving the
+properties of CWS. The in ﬂuence of the dispersant on the slurrying of
+coal is very important, and a suitable dispersing agent is very necessaryfor low rank coals to make slurries [ 3]. On the premise of ensuring the
+viscosity of the slurry, the dispersant can improve the concentration ofthe slurry to the maximum extent [ 4]. Furthermore, using a proper
+dispersant can increase the utilization ratio of coal [ 5]. In the system of
+coal water slurry, coal particles are dispersed by using the electrostatic
+repulsion and the spatial resistance of the dispersant adsorbed on their
+surface [ 6]. The dispersion properties of dispersants are closely related
+to the adsorption con ﬁguration and assembly morphologies in the coal
+water interface. The factors which a ﬀect the assembly of the dispersants
+in the coal water interface include the surface properties of the coal, thestructural characteristics of the dispersants, and the dosage and solid
+content of the dispersants [ 7]. The factors which a ﬀect the rheological
+properties and application performance of the CWS are mainly theamount of the dispersant on the surface of the coal particles, the ad-
+sorption amount, the adsorption strength and the thickness of the ad-
+sorbed layer. Through the study of these factors, the molecular struc-
+ture can be designed to achieve the best matching of dispersant for
+diﬀerent kinds of coal [ 8].
+At present, in the Chinese coal industry expanding the proportion of
+low-rank coal-water slurry will be an important way to develop coal-
+water slurry technology in China. The key problem is how to improve
+the performance of high concentration low-rank coal slurry [ 1,4].
+However, because of the high oxygen content and the dense surface
+hydrophilic groups in lower rank coal, the dispersant does not closely
+adsorb on the surface of coal, which leads to the easy desorption of the
+dispersant when the coal water slurry is at a high temperature or is in a
+high shear environment [ 9]. This makes the viscosity of the coal water
+slurry increase sharply, which greatly inhibits its ability to be trans-ported and atomized. In order to meet the requirements of industrial
+production, it is essential to research environmentally friendly and ef-
+ﬁcient dispersants for developing the coal-water slurry industry [ 10].
+In recent years, a serial of new anionic, amphoteric and long-side
+chain polycarboxylic acid dispersants were successfully synthesized for
+the low rank coal-water slurry [ 11,13], such as Shenfu coal, Bingchang
+coal and Inner Mongolia coal. The e ﬀect of polycarboxylic acid struc-
+ture on the slurry formation of low-rank coal was systematically stu-
+died. Furthermore, the dispersion mechanism of the polycarboxylate
+dispersant was discussed. The optimum ratio of ionic side groups in the
+polycarboxylate was found in the study of low rank coal slurry [ 12]. At
+the same time, the polycarboxylic acid with moderate side chain lengthhad better dispersion properties, viscosity reduction and stability than
+others [ 13]. Based on the particular advantages of long and short
+chains,
+polycarboxylic acid with composite long and short side chains
+can play a synergistic role in dispersion for CWS. The longer side chain
+is bene ﬁcial to greater space resistance, but it is not conducive to the
+increase of the main chain polymerization degree and the decrease ofthe main chain. On the contrary, the shorter side chain is not conducive
+to the formation of stronger steric hindrance. Therefore, it is very im-
+portant to combine the advantages of long chains and short chains of
+the polycarboxylate.
+The adsorption of dispersant molecules on the surface of coal par-
+ticles is a prerequisite for good dispersion properties. The properties of
+polycarboxylates as dispersants are largely determined by their ad-
+sorption properties at the interface of coal and water [ 8]. However,
+since there is no full understanding of the details of the adsorptionprocess related to the action mechanism of the dispersant, precisecontrol of adsorption behavior is often a challenging job. As the ad-
+sorption properties are dependent on the chemical structure of the
+dispersant [ 14], the in ﬂuence of the composite structure of long-short
+chains of the polycarboxylate on its adsorption on the coal surface iswell worth researching.
+In this study, novel block polycarboxylate dispersant containing
+hybrid side chains was ﬁrst synthesized, which combines the dispersing
+property of the long side chain and the short side chain dispersant. Byanalyzing the dispersing properties of the PC dispersants having various
+molar ratios of long side chain to short side chain, the inﬂ uence of the
+dispersant structure on the adsorption is discussed. Meanwhile, therelationship between the adsorption amount and the viscosity, stability
+and the zeta potential is developed to understand the details of the
+adsorption process related to the action mechanism of the dispersant. It
+is helpful to regulate the adsorption behavior of polycarboxylate dis-
+persant to improve its dispersion characteristic. Furthermore, it pro-
+vides a good pathway to design and prepare a highly e ﬀective dis-
+persant for low rank coal.
+2. Experimental2.1. Materials
+Allyl polyoxyethylene ethers (APEG) with di ﬀerent molecular
+weights ( M
+w= 600,1200 were purchased from Jiangsu Haian Chemical
+ReagentChina; methacrylic acid MAA was purchased from Tianjin
+Chemical ReagentChina; Azobisisobutyl hydrazine dihydrochloride
+AIBA as initiator was purchased from Shanghai Macklin Biochemical
+Co., Ltd. S-S'-bis a,a'-dimethyl-a"-acetate- trithiocarbonate BDATT as
+chain transfer reagent was synthesized according to the literature
+[15,16].
+2.2. Preparation
+2.2.1. General procedure for preparation of a typical polycarboxylate
+dispersant
+The short chain macromonomer APEG600 ( n= 14) and a certain
+amount of water were added to a ﬂask with magnetic agitator, and
+reﬂux condensing tube under a continuous nitrogen atmosphere. Then
+reaction solution in the ﬂask was heated and stirred to dissolve it fully,
+then its temperature was raised. After that, a certain amount of me-thacrylic acid (MAA) aqueous solution, BDATT as RAFT reagent and
+AIBA dissolved in deionized water as the initiator were added to the
+mixture solution drop by drop. After the mixture solution was kept at a
+ﬁxed temperature in nitrogen atmosphere, the product of step 1 was
+obtained. The step 1 production was purity through precipitated inethyl alcohol and dried in vacuum. Then the long chain macromonomer
+APEG1200 ( m= 23) and AIBA which were dissolved in deionized water
+were dropped into the product of step 1 then held at a constant tem-perature. After the pH value was adjusted to about 7 –8 using 30 %
+NaOH aqueous solution, the hybrid polycarboxylic acid dispersantsPCD containing composite long and short side chains was obtained (see
+Fig. 1).
+In order to choose the premium ratios of short side chain to long
+side chain, a series of polycarboxylic acid dispersants PCD-1 ∼PCD-5
+containing various ratios of short side chain to long side chain weresynthesized according to the di ﬀerent ratios of monomers in poly-
+merization. As controlled samples, a series of random free copolymersPC
+Ran1∼PCRan5 were prepared with MAA, APEG600 and APEG1200 by
+traditional free polymerization.
+2.2.2. Coal sample and coal-water slurries preparation
+A low rank coal, Shenfu coal was choose to be used in this work.
+Raw Shenfu coal was dried in the air, and what is more it was crushed
+and sieved with di ﬀerent meshes. The results of the proximate and
+ultimate analyses of Shenfu coal samples were shown in Table 1. TheJ. Zhu, et al. Colloids and Surfaces A 594 (2020) 124644
+2
+
+--- Page 3 ---
+particle size distribution of Shenfu coal sample was determined via the
+laser particle size analyzer (BT-9300Z, Dandong, China). The result was
+shown in Fig. 2 . The average size of volume for the coal particles was
+about 25.35 μm. The coal powder was slowly mixed in a pot containing
+a certain quantity of PCD and deionized water. The mixture was con-
+tinuously stirred by a mixer during the addition of coal [ 17], and then
+the stirring of the slurry was continued for another 10 min at 1200 rpmto ensure the homogenization of the CWS. The slurry was then studied
+to understand its characteristics.2.3. Measurement
+2.3.1. Structure characterization of PCD
+The above PCD was puri ﬁed by precipitating in the solvent of di-
+chloromethane and acetone. Then it was dried in a liquid nitrogen cold
+trap at a temperature of −70℃and a vacuum of -0.5 MPa. The powder
+of the dried and pure PCD was ground with the dried potassium bro-mide then pressed into a sheet to test infrared spectroscopy using
+VECTOR-22 infrared spectrometer produced by Bruker, Germany. After
+the 15−20 mg of the powder of the PCD was completely dissolved in
+deuterated dimethyl sulfoxide (DMSO), it was transferred into the nu-clear magnetic tube. The chemical structure was analyzed by a
+400 MHz nuclear magnetic resonance instrument (NMR). The puri ﬁed
+and dried PCD was dissolved in 0.1 mol·L
+−1NaNO 3aqueous solution.
+Then it was measured by gel permeation chromatography (GPC) for
+relative molecular weight at the test temperature of 30 ℃, using
+0.1 mol·L−1NaNO 3solution with the ﬂow rate of 0.5 mL·min−1as a
+mobile phase. The injection quantity of the sample was 20 μL. The
+molecular weight was quanti ﬁed by the polyethylene glycol standard
+samples.
+2.3.2. Viscometric measurements
+The apparent viscosity of coal-water slurries was tested by rhe-
+ometer (the United States, Brook ﬁeld, R/S-SST Plus), at 25 ℃. The CWS
+was prepared at solid content of 64.0 –69.0 wt% and the polycarboxylic
+acid dispersant (solid content calculated to be 30 wt%) was added into
+CWS at a dosage of 0.10-0.50 wt % to comply with the needs of the coal
+gasiﬁcation industry. The viscosity value at a shear rate of 100s−1was
+used as the apparent viscosity of the suspension, unless otherwise stated[13].
+2.3.3. Stability measurements
+The static stability of the CWS was evaluated by the water separ-
+ating test (water separating ratio, v/v%) and 72 h (3 days) storage time(h) in a similar manner for all samples at room temperature [ 19]. The
+static stability of the CWS is inversely proportional to its water separ-ating ratio. The static stability of CWS was determined by a water se-
+parating ratio W
+b. The stability tends to increase with the decrease in
+the water separating ratio. The smaller Wbis, the better stability of the
+CWS. The water separating ratio was calculated according to Eq. (1).
+Wb(v/v%) = V/V0× 100 % (1)
+where V(ml) was referred to the volume of upper water in the CWS
+Fig. 1. The chemical structure of a typical hybrid polycarboxylate dispersant.
+Table 1
+Proximate and ultimate analyses of Shenfu coal sample on air dried basis.
+Item Content
+Proximate analyses Inherent moisture (wt%) 9.63
+Ash (wt%) 14.11
+Volatile matter (wt%) 37.67
+Fixed carbon (wt%) 52.70
+Ultimate analyses Carbon (wt%) 65.12
+Sulfur (wt%) 0.41
+Hydrogen (wt%) 4.55
+Oxygen (wt%) 14.82
+Nitrogen (wt%) 0.97
+Oxygen/carbon ratio (wt%) 0.23
+Fig. 2. The distribution of Shenfu coal particle size.J. Zhu, et al. Colloids and Surfaces A 594 (2020) 124644
+3
+
+--- Page 4 ---
+after 72 h, V0(ml) was the total volume of the CWS.
+2.3.4. Adsorption experiments
+The adsorbed amount of the PCD on coal particles was calculated by
+determining the amount of free polycarboxylate in the solution. The
+concentration of PCD in the solution was measured using total organic
+carbon analyzer (Elementar vario TOC cube, Germany) and calculated
+according to Eq. (2).
+TOC = Kc + b (2)
+where TOC is the total organic carbon in the dispersant solution
+(mg·L−1)；Kis the factor of proportionality of TOC to the concentra-
+tion of dispersant ；cis the concentration of the dispersant solution
+(mg·L−1);b is the constant of proportionality of TOC to the concentra-
+tion of dispersant(mg·L−1).
+The fraction of organic compounds eluted from the coal in the coal
+water mixture without a polymer dispersant was measured as a blank
+value to o ﬀset background absorption of dissolved matter from coal.
+The amount of polymer adsorbed on coal particles was tested and cal-culated according to the literature [ 8]. Then adsorption isotherm of the
+polycarboxylate dispersant on coal was obtained using the ﬁtting of the
+adsorption at various original concentrations of PCD.
+2.3.5. ESEM –EDS measurement
+Raw coal samples and complex coal samples which were adsorbing
+the dispersant PCD-2, were ﬁltered from coal-water slurries and washed
+three times by water, then vacuum dried into dry particles. After that,
+the particles were pressed on conductive tapes and observed by Q45Environment Scanning Electron Microscopy ESEM and Energy
+Dispersive Spectrometer EDS from FEI, US. The magni ﬁcation was ﬁxed
+at 2400× [ 18].
+2.3.6. Zeta potential measurements
+The zeta potential of the coal particles in the CWS was determined
+by ZEN3690 Zetasizer (Malvern Instruments Corp., British) [ 19]. Three
+zeta potential measurements were made, and then the mean value ofthem was utilized in this study.
+3. Results and discussion
+3.1. Characteristics of dispersants
+The two types of polycarboxylic acid dispersants PCD-1 ∼PCD-5 and
+PC
+Ran1∼PCRan5 were prepared to study the e ﬀect of the various ratio of
+short side chain to long side chain on PC dispersants (in Table 2). As
+shown in Table 2, the two types of PCs respectively are synthesized by
+RAFT polymerization and random polymerization. The relative mole-
+cular weight of the PC Ranby random polymerization is about equal to
+that of the PCD by RAFT polymerization. However, the molecular
+weight distribution of the PCD is relatively narrower than that of the
+PCRan. Every molecular weight of PCD is about 10,000. Besides, each of
+their molecular weight distribution is close to 1.
+Fig. 3a shows the infrared spectrum of PCD by the RAFTpolymerization. The structure analysis results of spectra were as fol-lows: The stretching vibration absorption peak of carboxylic hydroxyl is
+at 3560.90 cm
+−1. The stretching vibration absorption peaks of the
+carbon-hydrogen bond and carbon-oxygen bond in ether are respec-tively at 2863.12 cm
+−1and 1103.65 cm−1. The carbonyl group
+stretching vibration peak is at 1728.04 cm−1. No peak of carbon-carbon
+double bond that proves the reaction of all monomers is completed. The
+methylene carbon-hydrogen bending vibration absorption peak is at
+1470.44 cm−1. The carbon-hydrogen bending vibration absorption
+peak of methyl is at 1351.98 cm−1.
+As presented in Fig. 3b, the chemical shift δis the hydrogen proton
+peak in the polymer between 0.9 –1.1 ppm. The peak between
+1.6–1.9 ppm is the hydrogen proton of the main chain of the PCD. The
+peaks of 2.0 –2.2 ppm are attributed to the hydrogen proton of methine
+between the polyether side chain and the polymer main chain. The
+peaks of 3.5 –3.7 ppm are the hydrogen proton of hydroxyl at the end of
+the polyether side chain. The peaks of 3.8 –4.0 ppm are the hydrogen
+proton of methylene close to the hydroxyl in the polyether chain. The
+peaks of 4.5 –4.8 ppm are the hydrogen proton of methylene which
+connected with the ether bond in the polyether chain. No peak is foundat about 5.7 ppm (i.e. the hydrogen related to the double bond), which
+represents the disappearance of double bonds. Based on the analyses of
+1H-NMR and FT-IR spectra, it is clearly seen that the synthesized
+polymer is the target polycarboxylic acid.
+3.2. Slurry properties of CWS with PCD
+Fig. 4a indicates the e ﬀect of the polycarboxylic acid dispersants
+prepared by two methods on apparent viscosity of the CWS. The
+average value of the apparent viscosity of the CWS was obtained when
+the slurry concentration was 66 wt% and the dispersant content was
+0.4 wt%. As Fig. 4a shows, the e ﬀects of the dispersants synthesized by
+the two methods on the concentration of coal slurry are de ﬁnitely dif-
+ferent. The apparent viscosity of the CWS with the PCD synthesized by
+the RAFT method is lower than that of PC Ransynthesized by random
+copolymerization under the same molar ratio of long and short sidechains. The results show that the PCD has a better viscosity reduction
+eﬀect on coal-water slurry than the PC
+Ran. The stability results of the
+above CWSs in Fig. 4b were characterized by the water separating ratio
+method. Under the same molar ratio of long and short side chains, the
+water separating ratio of the CWS with the PCD is less than that of
+PCRan.It means that the stability of the CWS with the PCD is better than
+that of PC Ran.By comparing the apparent viscosity and dispersion sta-
+bility of CWSs using PCD with di ﬀerent molar ratios of short and long
+side chains, it can be concluded that the PCD-2, PCD-3 and PCD-4 withthe hybrid-length side chains has better dispersion stability than that of
+other the polycarboxylic acid with only long side chains (PCD-5) or
+only short side chains (PCD-1). Especially, PCD-2 shows the best visc-
+osity reduction e ﬀect and dispersion stability which may be due to the
+absorption behavior of PCD on coal particles surface.
+As shown in Fig. 4c, the apparent viscosity of the CWS in presence of
+PCDs having composite side chains decreased with increasing shearrate. The CWS behaves as a non-Newtonian ﬂuid with shear thinning.
+Two most widely used rheological models, Herschel-Bulkley andPower-law used in CWS, were applied to ﬁt the curves of stress-shear
+rate in Fig. 4d. The ﬁtting results were shown in Table 3. As presented
+inTable 3, the rheological properties of the coal water slurry are more
+consistent with Herschel-Bulkley because the correlation coe ﬃcient
+(R
+2) of the Herschel-Bulkley model was closer to 1 than that of Power-
+law model. Meanwhile, as the ﬂow behavior index (n) was less than 1,
+the coal water slurry behaved as a pseudoplastic ﬂuid which is good for
+stability and storage of CWS. Besides, as shown in Table 3, the order of
+apparent viscosity of CWSs at shear rate of 100s−1from lowest to
+highest is PCD-2 < PCD-3 < PCD-4 < PCD-1 < PCD-5, which is in
+agreement with the consistency coe ﬃcient ( K). According to reference
+[20], the CWS with the larger ﬂow characteristic index has betterTable 2
+Molecular weight and distribution results for two types of polycarboxylic acid
+dispersants.
+Entry n MAA:nAPEG600 :nAPEG1200 PCRan PCD
+Mw Mn PDI Mw Mn PDI
+#1 4 :1: 0 10154 6550 1.55 9854 9040 1.09
+#2 4 :0.75:0.25 12030 7613 1.58 11667 10324 1.13
+#3 4 :0.5: 0.5 13357 8348 1.60 12507 10336 1.21
+#4 4 :0.25 :0.75 13117 8408 1.56 12300 9840 1.25#5 4 :0:1 14322 9007 1.59 13117 10168 1.29J. Zhu, et al.
+Colloids and Surfaces A 594 (2020) 124644
+4
+
+--- Page 5 ---
+ﬂowability. Thus we can conclude that the CWS with dispersant PCD-2
+has better ﬂowability because it has a larger ﬂow behavior index. The
+reason for this may be diverse adsorption of PCD on the coal surface
+[21].
+3.3. Adsorption studies
+3.3.1. Adsorption morphology
+The ESEM images and EDS analysis of raw Shenfu coal powder and
+complex coal powder which adsorbed the PCDs are presented in Fig. 5.
+It can be seen from Fig. 5a that there are no gaps between the raw coalparticles which aggregate together. When the dispersant PCD-2 was
+adsorbed on the coal to form complex coal ( Fig. 5b), the intergranular
+gaps between the complex coals are observed. As a result, the disper-sion of coal powder becomes better. It may be because the large speci ﬁc
+surface of the coal powder is reduced after the surface of coal is mod-iﬁed by the CD. Therefore, the PCD weakens the aggregation of coal
+particles and disperses them in coal water slurry [ 22]. Based on the
+element content on the coal particle surface from EDS analysis ( Fig. 5c),
+there are a fraction of ionic groups on coal surface containing oxygen
+such as carboxyl group, hydroxyl group and salts. Furthermore, it can
+be seen that the elements on the surface of the complex coal particle
+Fig. 3. The FT-IR spectra (a)of PCD-2 and (b)1H-NMR of PCD-2.
+Fig. 4. Apparent viscosity (a)and stability (b)of CWSs with 0.4 wt% PCD and PC Ransynthesized by random polymerization under the conditions of 66 wt% coal
+concentration, pH 7, 25 °C, and shear rate of 100s−1. Apparent viscosity (c)and shear stress (d)as functions of shear rate for coal slurries with 0.4 wt% PCDs having
+composite side chains under the conditions of 66 wt% coal concentration, pH 7, 25 °C, and shear rate from 0 to 100s−1.J. Zhu, et al. Colloids and Surfaces A 594 (2020) 124644
+5
+
