@@ -1,6 +1,7 @@
-# 루트에는 아래 2개의 pptx와 폴더(adhesives_data, 2nd)만 포함하고, 그 외는 무시합니다.
+# 루트에는 README, 2개의 pptx, 폴더(adhesives_data, 2nd)만 포함하고, 그 외는 무시합니다.
 /*
 !.gitignore
+!README.md
 
 !adhesives_data/
 !2nd/
